@@ -157,7 +157,7 @@ hostname -I
 Connect remotely from another computer:
 
 ```bash
-ssh username@server-ip
+ssh aidan@192.168.50.101
 ```
 
 ---
