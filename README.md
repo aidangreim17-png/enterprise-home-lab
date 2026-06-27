@@ -116,7 +116,7 @@ Built a Windows Server 2022 Active Directory lab to simulate a small business en
 
 ### DHCP Scope
 
-![DHCP](screenshots/dhcp/dhcp-pool.png)
+![DHCP](screenshots/dhcp/DHCP-Pool.png)
 
 ### Drive Mapping GPO
 
